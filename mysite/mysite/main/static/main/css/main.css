@@ -1,0 +1,63 @@
+body{
+background-color:rgb(59, 45, 47);
+}
+
+
+aside{
+    float: left;
+    background:rgb(59, 45, 47);
+    width: 20%;
+    padding:2.5%;
+    height: 100vh;
+    color: white;
+    border-right: 5px solid #4d4d4d;
+}
+
+aside img{
+    margin-left:20px;
+}
+
+
+aside ul li{
+    list-style:none;
+    color:white;
+    text-decoration: none;
+    transition: all .4s ease;
+}
+
+aside ul li:hover, aside ul a:hover{
+    color:rgb(66, 135, 81);
+    text-decoration: none;
+}
+
+.feature{
+    float:left;
+    color:white;
+    width:1200px;
+    text-align:center;
+    padding-top: 130px;
+    padding-left:300px;
+}
+
+
+
+
+
+.description{
+    margin-top: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
